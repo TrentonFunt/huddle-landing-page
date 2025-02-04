@@ -1,0 +1,19 @@
+/* Header Styling */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  background-color: #ca2997;
+  /* Light background */
+  padding: 20px;
+  border-bottom: 3px solid #ff4b9b;
+  /* Accent border */
+  text-align: center;
+  width: 100%;
+}
+
+/* Logo Image */
+header img {
+  height: 50px;
+}
